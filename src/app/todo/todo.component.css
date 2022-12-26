@@ -1,0 +1,11 @@
+@media (max-width: 480px) {
+
+    .table tr td{
+        font-size: 5px;
+    }
+
+}
+
+tbody{
+    font-size: 22px;
+}
